@@ -1,25 +1,26 @@
 {
   "album": "My Photos",
-  "thumbnail": "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo01.bmp",
+  "thumbnail": "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo01.bmp",
   "settings": {
     "delay_seconds": 10,
     "shuffle": false,
     "loop": true
   },
   "images": [
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo01.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo02.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo03.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo04.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo05.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo06.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo07.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo08.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo09.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo10.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo11.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo12.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo13.bmp",
-      "https://raw.githubusercontent.com/xjmontero/my-esp32-photos/main/photo14.bmp"
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo01.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo02.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo03.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo04.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo05.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo06.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo07.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo08.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo09.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo10.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo11.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo12.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo13.bmp",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo14.bmp"
   ]
 }
+
