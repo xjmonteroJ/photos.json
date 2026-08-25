@@ -1,6 +1,6 @@
 {
   "album": "My Photos",
-  "thumbnail": "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo01.bmp",
+  "thumbnail": "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo01.png",
   "settings": {
     "delay_seconds": 10,
     "shuffle": false,
