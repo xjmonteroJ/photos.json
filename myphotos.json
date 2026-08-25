@@ -7,11 +7,11 @@
     "loop": true
   },
   "images": [
-      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo01.bmp",
-      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo02.bmp",
-      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo03.bmp",
-      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo04.bmp",
-      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo05.bmp"
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo01.png",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo02.png",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo03.png",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo04.png",
+      "https://raw.githubusercontent.com/xjmonteroJ/esp32-photos/refs/heads/main/photo05.png"
   ]
 }
 
